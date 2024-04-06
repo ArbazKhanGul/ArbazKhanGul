@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <h3 align="center">A passionate full stack and blockchain developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbazkhangul&label=Profile%20views&color=0e75b6&style=flat" alt="arbazkhangul" /> </p>
-
 - 🔭 I’m currently working on **SmartCab Project**
 
 - 👨‍💻 All of my projects are available at [https://arbazkhangul.vercel.app/](https://arbazkhangul.vercel.app/)
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbazkhangul&show_icons=true&locale=en&layout=compact" alt="arbazkhangul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arbazkhangul&show_icons=true&locale=en" alt="arbazkhangul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbazkhangul&" alt="arbazkhangul" /></p>
