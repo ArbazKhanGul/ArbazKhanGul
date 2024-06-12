@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arbazkhangul123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZBh2SrzmJUKrEKcdtcfAkE8z_i7tGz4e/view](https://drive.google.com/file/d/1ZBh2SrzmJUKrEKcdtcfAkE8z_i7tGz4e/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18_qdX0KzwzSL7Z7Ik9MM6YdWgmMyQb2H/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
