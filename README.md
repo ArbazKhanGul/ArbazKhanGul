@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Royal Falcon Limousine Management System**
 
-- 👨‍💻 All of my projects are available at [https://arbazkhangul.vercel.app/](https://arbazkhangul.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://arbazkhangul.vercel.app/]
 
 - 📫 How to reach me **arbazkhangul123@gmail.com**
 
