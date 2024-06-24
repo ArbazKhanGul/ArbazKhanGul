@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
-<h3 align="center">A passionate full stack and blockchain developer from Pakistan</h3>
+<h3 align="center">A passionate full stack and blockchain developer</h3>
 
 - 🔭 I’m currently working on **Royal Falcon Limousine Management System**
 
