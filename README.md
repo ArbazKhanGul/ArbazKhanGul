@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently building **Khudi Chat** (AXI)
-- 💼 Techninal Team Leas @ AXI Technologies (Islamabad Pakistan)
+- 💼 Techninal Team Lead @ AXI Technologies (Islamabad Pakistan)
 - ⚡ Specialized in **scalable real-time systems (1M+ users)**
 - 🧠 Strong experience in **Node.js, Kafka, Redis, Elasticsearch**
 - 🌐 Experienced in **MERN Stack & Blockchain Development**
