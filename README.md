@@ -57,17 +57,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arbazkhangul&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arbazkhangul&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 💡 Highlight Projects
-- 💬 WhatsApp-like chat system (1M users, real-time architecture)
-- 🚗 Royal Falcon Limousine System (apps + backend)
+- 💬 WhatsApp-like chat system Khudi Chat(1M users, real-time architecture)
+- 🚗 Les Trip Manager (apps + backend)
 - 🧑‍💼 Fikerless (freelance marketplace)
 - ✈️ Trvl_App (travel platform)
 
