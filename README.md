@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
-<h3 align="center">Senior Full Stack Developer | Scalable Systems & Real-Time Apps</h3>
+<h3 align="center">Senior Full Stack Developer | Technical Team Lead | Scalable Systems & Real-Time Apps</h3>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **Royal Falcon Limousine Management System** (Dubai)
-- 💼 Senior Full Stack Developer @ Pakistan Military Intelligence (GHQ)
+- 🔭 Currently building **Khudi Chat** (AXI)
+- 💼 Techninal Team Leas @ AXI Technologies (Islamabad Pakistan)
 - ⚡ Specialized in **scalable real-time systems (1M+ users)**
 - 🧠 Strong experience in **Node.js, Kafka, Redis, Elasticsearch**
 - 🌐 Experienced in **MERN Stack & Blockchain Development**
